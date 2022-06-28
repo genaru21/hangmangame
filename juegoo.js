@@ -3,14 +3,8 @@ let cant_errores = 0; //cuantas veces me equivoqué
 let cant_aciertos = 0; //cuantas letras acerté
 
 const palabras = [
-    'ramasser',     
-    'cueillette',     
-    'depannage',    
-    'responsable',       
-    'frais',     
-    'verifier',       
-    'collecter',   
-    'colis'   
+    'anki cozmo robot' ,
+    'apple arcade'
 ];
 const btn = id('jugar');
 const imagen = id( 'imagen' );
