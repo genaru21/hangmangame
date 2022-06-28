@@ -3,14 +3,33 @@ let cant_errores = 0; //cuantas veces me equivoqué
 let cant_aciertos = 0; //cuantas letras acerté
 
 const palabras = [
-    'ramasser',     
-    'cueillette',     
-    'depannage',    
-    'responsable',       
-    'frais',     
-    'verifier',       
-    'collecter',   
-    'colis'   
+    'anki cozmo robot',     
+    'apple arcade',     
+    'apple card',    
+    'apple remote',       
+    'beats',     
+    'beta program',       
+    'big sur',   
+    'boot camp' ,
+    'developer' ,
+    'display monitor' ,
+    'dji mavic drone' ,
+    'family sharing' ,
+    'final cut' ,
+    'hard drive' ,
+    'ibook' ,
+    'numbers' ,
+    'imessage' ,
+    'logic pro' ,
+    'memory' , 
+    'mouse' ,
+    'printer' , 
+    'quicktime' ,
+    'server' ,
+    'siri' ,
+    'time capsule' ,
+    'track pad' ,
+    'apple merchandise'
 ];
 const btn = id('jugar');
 const imagen = id( 'imagen' );
