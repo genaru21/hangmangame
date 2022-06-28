@@ -3,28 +3,28 @@ let cant_errores = 0; //cuantas veces me equivoqué
 let cant_aciertos = 0; //cuantas letras acerté
 
 const palabras = [
-    'anki cozmo robot' ,
-    'apple arcade' ,
-    'apple remote' ,
-    'beta program' ,
-    'big sur' ,
+    'ankicozmorobot' ,
+    'applearcade' ,
+    'appleremote' ,
+    'betaprogram' ,
+    'bigsur' ,
     'developer' ,
-    'display monitor' ,
-    'dji mavic drone' ,
-    'family sharing' ,
-    'final cut' ,
-    'hard drive' ,
+    'displaymonitor' ,
+    'djimavicdrone' ,
+    'familysharing' ,
+    'finalcut' ,
+    'harddrive' ,
     'ibook' ,
     'imessage' ,
     'numbers' ,
-    'logic pro' ,
+    'logicpro' ,
     'memory' ,
     'mouse' ,
     'printer' ,
     'quicktime' ,
-    'time capsule' ,
+    'timecapsule' ,
     'trackpad' ,
-    'apple merchandise'
+    'applemerchandise'
 ];
 const btn = id('jugar');
 const imagen = id( 'imagen' );
